@@ -2,7 +2,6 @@
 
 body header nav div a img form input footer {
  font-family: "Arial", sans-serif; 
- background: #fff;
 }
 
 .main, .header-nav, .top-nav, .left-side, .right-side, .center, .img-center, .footer-nav {
@@ -12,4 +11,8 @@ body header nav div a img form input footer {
 html body {
  height: 100%;
  margin: 0;
+}
+
+body {
+ background: #fff;
 }
