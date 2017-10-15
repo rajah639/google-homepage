@@ -32,10 +32,13 @@ ul {
 }
 
 .right-side {
- margin-left: 65%; 
+ margin-left: 75%; 
 }
 
-.anchor {
+.right-side .anchor {
  padding-right: 10px; 
 }
 
+ul .right-side {
+ display: inline-block;
+}
