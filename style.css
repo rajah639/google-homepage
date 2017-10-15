@@ -42,3 +42,7 @@ ul {
 ul .right-side {
  display: inline-block;
 }
+
+form {
+ margin: 50%, 50%;
+}
