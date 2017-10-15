@@ -1,7 +1,7 @@
 /* This is the style sheet for google-homepage*/
 
 body header nav ul a img form input footer {
- font-family: "Arial", sans-serif; 
+ font-family: arial, sans-serif; 
 }
 
 .main, .header-nav, .top-nav, .left-side, .right-side, .center, .img-center, .footer-nav {
@@ -11,6 +11,7 @@ body header nav ul a img form input footer {
 html body {
  height: 100%;
  margin: 0;
+ font-family: arial, sans-serif;
 }
 
 body {
@@ -23,4 +24,14 @@ body {
 
 ul {
  display: inline;
+ text-decoration: none;
 }
+
+.left-side {
+ margin-left: -35px;
+}
+
+.right-side {
+ margin-left: 70%; 
+}
+
