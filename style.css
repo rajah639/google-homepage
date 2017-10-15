@@ -16,3 +16,7 @@ html body {
 body {
  background: #fff;
 }
+
+header-nav top-nav {
+ display: inline;
+}
