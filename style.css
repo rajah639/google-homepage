@@ -43,6 +43,6 @@ ul .right-side {
  display: inline-block;
 }
 
-form {
+form .center {
  margin: 50%, 50%;
 }
