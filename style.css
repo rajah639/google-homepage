@@ -20,3 +20,7 @@ body {
 .header-nav .top-nav .left-side .right-side .anchor {
  display: inline;
 }
+
+ul {
+ display: inline;
+}
