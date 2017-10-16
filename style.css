@@ -42,13 +42,13 @@ ul {
 ul .right-side {
  display: inline-block;
 }
-
+/*
 form .center {
  padding-left: 629px;
  padding-right: 650px;
  padding-top: 164px;
 }
-
+*/
 input {
  height: 44px;
  width: 584px;
