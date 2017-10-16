@@ -44,5 +44,12 @@ ul .right-side {
 }
 
 form .center {
- margin: 50%, 50%;
+ padding-left: 629px;
+ padding-right: 650px;
+ padding-top: 164px;
+}
+
+input {
+ height: 44px;
+ width: 584px;
 }
