@@ -9,8 +9,6 @@ body header nav ul a img form input footer {
 }
 
 html body {
- height: 100%;
- margin: 0;
  font-family: arial, sans-serif;
 }
 
@@ -57,4 +55,6 @@ input {
 */
 form {
  text-align: center;
+ padding-top: 109px;
+ width: 272;
 }
